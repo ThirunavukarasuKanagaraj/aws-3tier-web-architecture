@@ -13,6 +13,7 @@ Designed and deployed a secure AWS 3-Tier Web Application Architecture using VPC
    - Security Groups
 ## Architecture Diagram
 <img width="971" height="601" alt="Tier3Topology" src="https://github.com/user-attachments/assets/33714cd4-5143-4f7a-873f-ce77a5a8d756" />
+
 ## AWS Services Used
    - Amazon EC2
    - Amazon RDS
