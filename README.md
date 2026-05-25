@@ -1,16 +1,16 @@
 # aws-3tier-web-architecture
 Designed and deployed a secure AWS 3-Tier Web Application Architecture using VPC, public/private subnets, Bastion Host, Web Server, App Server, and MariaDB RDS. Configured NAT Gateway, Internet Gateway, Route Tables, and Security Groups to enable secure communication between application layers. 
 **Architecture Components**
-   -Amazon VPC
-   -Public and Private Subnets
-   -Bastion Host
-   -Web Server
-   -App Server
-   -Amazon RDS (MariaDB)
-   -NAT Gateway
-   -Internet Gateway
-   -Route Tables
-   -Security Groups
+   - Amazon VPC
+   - Public and Private Subnets
+   - Bastion Host
+   - Web Server
+   - App Server
+   - Amazon RDS (MariaDB)
+   - NAT Gateway
+   - Internet Gateway
+   - Route Tables
+   - Security Groups
 **Architecture Diagram**
 <img width="971" height="601" alt="Tier3Topology" src="https://github.com/user-attachments/assets/33714cd4-5143-4f7a-873f-ce77a5a8d756" />
 **AWS Services Used**
