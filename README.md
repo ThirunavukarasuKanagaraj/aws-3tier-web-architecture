@@ -69,5 +69,5 @@ sudo systemctl enable httpd
 ```bash
 #!/bin/bash
 sudo yum install -y mariadb-server
-  sudo service mariadb start '''
+  sudo service mariadb start ```
    
