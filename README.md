@@ -55,16 +55,14 @@ Designed and deployed a secure AWS 3-Tier Web Application Architecture using VPC
     - Connected to private instances through Bastion Host
     - Verified communication between Web, App, and Database layers
 ## User Data Script - Web Server
-   '''#!/bin/bash
+   ''' #!/bin/bash
   sudo yum update -y
   sudo amazon-linux-extras install -y lamp-mariadb10.2-php7.2 php7.2
   sudo yum install -y httpd
   sudo systemctl start httpd
-  sudo systemctl enable httpd'''
+  sudo systemctl enable httpd '''
 ## User Data Script - App Server
-  '''#!/bin/bash
+  ''' #!/bin/bash
   sudo yum install -y mariadb-server
-  sudo service mariadb start'''
+  sudo service mariadb start '''
    
-Elastic IP
-Amazon Linux 2
